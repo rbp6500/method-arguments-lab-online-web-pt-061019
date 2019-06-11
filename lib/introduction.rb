@@ -1,5 +1,4 @@
 
 
-def introduction (name)
-  puts "Hi, my is #{name}."
+def introduction
 end
